@@ -1,23 +1,4 @@
-# Cyber Threat Modelling — Revision Notes
-
-> **Purpose:** High-yield revision for the supplied *Cyber Systems & Cyber Threat and Modelling – Question Bank*. These notes cover the concepts needed for Groups A, B and C. They do **not** provide fully worked answers to every Group C scenario; instead, they give reusable frameworks for applying the concepts to hospital, banking, SCADA, e-commerce, IoT, cloud, web, mobile and privacy scenarios.
->
-> **Exam goal:** Be able to define a concept, distinguish it from related concepts, give a realistic example, choose a mitigation, and apply the idea to a new scenario. No notes can guarantee a particular score; marks depend on recall, accuracy, application and the marking scheme.
-
----
-
-## How to revise this file efficiently
-
-Use this as one focused revision session, not as a passive reading exercise.
-
-1. **Orient (2–3 minutes):** Read the master mind map and the four-question framework.
-2. **Chunk:** Study one table or topic at a time. Each chunk answers one question: *what is it, why does it matter, example, mitigation?*
-3. **Retrieve:** After each chunk, hide it and say the core idea from memory. Then check and correct it. This is more useful than rereading the same sentence several times.
-4. **Contrast:** Practise the pairs that are easy to confuse: Spoofing vs Tampering; STRIDE vs attack trees vs attack libraries; mitigate vs eliminate vs transfer vs accept; provider vs tenant responsibility; anonymisation vs pseudonymisation.
-5. **Apply:** For a scenario, identify the system, assets, entry points, trust boundaries, threats, mitigations and residual risks.
-6. **Final check:** Use the closed-book checklist near the end. If a concept cannot be recalled, revise that section first.
-
-**Answer formula to use repeatedly:** **Definition → Why/impact → Example → Mitigation**. For comparison questions, compare the **starting point, focus and output** of each approach.
+# Cyber Threat Modelling — Notes
 
 ---
 
