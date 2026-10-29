@@ -1,7 +1,5 @@
 # Cyber Threat Modelling — Notes
 
----
-
 # 1. Master knowledge tree
 
 ```mermaid
